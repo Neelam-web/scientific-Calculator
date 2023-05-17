@@ -1,0 +1,82 @@
+.design{
+    margin: auto;
+    background: black;
+    width: 1000px;
+    height: 550px;
+
+}
+.btn{ width: 50px;
+    height: 50px;
+    background: goldenrod ;
+     border-radius: 50%;
+     color: black;
+     border-color: black;
+      padding-left: 10px;
+      justify-content: center;
+      margin-left: 100px;
+
+}
+.input{
+width: 90%;
+border-radius: 20px;
+border-color: black;
+height: 50px;
+background-color:goldenrod;
+color: black;
+text-align: right;
+margin-left: 40px;
+margin-right: 20px;
+padding-right: 20px;
+
+}
+table tr td{
+     font-style: oblique;
+     width: 10px;
+     height: 10px;
+     font-size: medium;
+    /* padding: auto; */
+     /* padding-left: 30px; */
+}
+.btn:hover{
+
+    background-color: greenyellow;
+    color: black;
+}
+
+.input:hover{
+
+    background-color: greenyellow;
+    color: black;
+}
+.button{
+width: 60p;
+
+}
+.button{
+ width: 600px;
+ height: 50px;
+justify-content: center;
+margin-left: 100px;
+background-color: goldenrod;
+color: black;
+border-radius: 30px;
+}
+
+.button:hover{
+
+    background-color: greenyellow;
+    color: black;
+}
+.new{
+    width: 50px;
+    height: 50px;
+    background: goldenrod ;
+     border-radius: 50%;
+     color: black;
+     border-color: black;
+      padding-left: 10px;
+      justify-content: center;
+      margin-right: 50px;
+     margin-left: 50px;
+
+}
